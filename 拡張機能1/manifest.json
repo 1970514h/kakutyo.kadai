@@ -11,6 +11,14 @@
         {
           "matches": ["https://outlook.office.com/mail/*"],
           "css": ["mystyle.css"]
+        },
+        {
+          "matches": ["https://www2.kobe-u.ac.jp/~tnishida/programming/*"],
+          "js": ["content_script2.js"]
+        },
+        {
+          "matches": ["https://tabelog.com/*"],
+          "css": ["mystyle2.css"]
         }
       ]
   }
